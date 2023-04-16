@@ -50,7 +50,7 @@
 
 <br />
 <br />
-<img align="left" alt="Nusrat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shifat0&show_icons=true&theme=radical" />
+<img align="left" alt="Nusrat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NusratSizy&show_icons=true&theme=radical" />
 
 [twitter]: https://twitter.com/nusrat_sizy
 [facebook]: https://www.facebook.com/profile.php?id=100009330884700
